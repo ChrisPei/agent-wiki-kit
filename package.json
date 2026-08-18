@@ -1,0 +1,33 @@
+{
+  "name": "agent-wiki-kit",
+  "version": "0.3.0",
+  "description": "A durable, repository-native memory and retrieval system for coding agents.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "author": "Chris Pei",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisPei/agent-wiki-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChrisPei/agent-wiki-kit/issues"
+  },
+  "homepage": "https://github.com/ChrisPei/agent-wiki-kit#readme",
+  "keywords": [
+    "agent",
+    "codex",
+    "documentation",
+    "knowledge-base",
+    "memory",
+    "skill",
+    "wiki"
+  ],
+  "scripts": {
+    "test": "node --test tests/wiki-kit.test.mjs",
+    "self-check": "node skills/agent-wiki-kit/scripts/wiki-kit.mjs --help"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

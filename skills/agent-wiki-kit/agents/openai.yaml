@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Wiki Kit"
+  short_description: "Build, audit, repair, and maintain durable Agent Wikis"
+  default_prompt: "Use $agent-wiki-kit to recover repository memory, distinguish current, candidate, and historical authority, update only evidence-backed durable knowledge, and run comprehensive diagnostics before handoff."

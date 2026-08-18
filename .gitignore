@@ -1,0 +1,16 @@
+# Dependencies, test output, and local scratch files
+node_modules/
+coverage/
+*.log
+tmp-*
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

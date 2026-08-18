@@ -1,0 +1,5 @@
+{
+  "title": "Log Archive",
+  "summary": "Older structured chronology retained outside the normal recovery path; consult it only when a historical sequence matters.",
+  "order": 90
+}

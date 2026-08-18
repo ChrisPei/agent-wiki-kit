@@ -1,0 +1,5 @@
+{
+  "title": "Plans",
+  "summary": "Executable intent, sequencing, and acceptance gates. Plans say what should happen and never by themselves prove that implementation or human acceptance occurred.",
+  "order": 20
+}

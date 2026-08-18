@@ -1,0 +1,6 @@
+{
+  "title": "Agent Wiki",
+  "summary": "Searchable, correctable external memory for a limited-context Agent. Root guidance explains retrieval and growth; maintained conclusions, work memory, plans, and source provenance remain distinct but discoverable in one hierarchy.",
+  "order": 10,
+  "children": "annotated"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Recovery and Work Memory",
+  "summary": "Compact current state, bounded recent chronology, QA evidence, handoffs, and archives. Current state routes recovery; logs preserve sequence without becoming product law.",
+  "order": 20
+}
